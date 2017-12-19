@@ -1,0 +1,88 @@
+body {
+  background-image: url("dinopattern.gif");
+  border-style: dotted;
+  border-width: 2px;
+  border-radius: 10px;
+  border-color: #567EA2;
+}
+
+h1 {
+  font-family: Helvetica;
+  font-size: 400%;
+  padding-top: 10px;
+  padding-left: 40px;
+  margin-bottom: 0px;
+  color: white;
+}
+
+h2 {
+  font-family: Helvetica;
+  font-weight: 200;
+  text-transform: uppercase;
+  font-size: 110%;
+  line-height: 0%;
+  letter-spacing: 8px;
+  color: red;
+  padding-top: 40px;
+  padding-bottom: 20px;
+  padding-left: 40px;
+}
+
+h3 {
+  font-family: Helvetica;
+  font-weight: 500;
+  font-size: 220%;
+  padding-left: 60px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  color: white;
+}
+
+h4 {
+  font-family: Times;
+  font-weight: 10;
+  font-size: 150%;
+  padding-left: 60px;
+  margin-top: 2px;
+  margin-bottom: 0px;
+  line-height: 140%;
+  color: #F6DAEC;
+}
+
+h5 {
+  font-family: Helvetica;
+  font-weight: 100;
+  font-size: 140%;
+  line-height: 0%;
+  margin-top: 15px;
+  padding-left: 45px;
+  color: #F6DAEC;
+}
+
+h6 {
+  font-family: Courier New;
+  font-weight: 500;
+  font-size: 110%;
+  padding-left: 60px;
+  margin-top: 13px;
+  margin-bottom: 0px;
+  line-height: 0%;
+  color: #F6DAEC;
+}
+
+ul {
+  font-family: Helvetica;
+  padding-top: 0px;
+  padding-left: 80px;
+  padding-bottom: 40px;
+  margin-top: 20px;
+  margin-bottom: 0px;
+  font-size: 110%;
+  font-weight: 100;
+  line-height: 160%;
+  color: #567EA2;
+}
+
+div {
+  width: 80%;
+}
